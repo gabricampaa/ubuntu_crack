@@ -16,3 +16,6 @@ Also, keep in mind i'm using macos, therefore a few steps will be specific (but 
 - Generate the new iso image from the master folder:   "genisoimage -o ubuntu_desktop_20.iso -b isolinux/isolinux.bin -c isolinux/boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table -J -R -V Ubuntu\ 20.04\ Desktop -input-charset utf-8 .""
 
 
+```bash
+hey
+```
