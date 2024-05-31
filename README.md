@@ -1,5 +1,5 @@
-# ubuntu_crack
-A simple walkthrough for hacking an iso image.
+# Ubuntu ISO crack
+A simple walkthrough for hacking the iso image of Ubuntu.
 
 This process is just an experiment, and i will take no responsability for improper actions or a harmful usage.
 
